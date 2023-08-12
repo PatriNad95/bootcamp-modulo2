@@ -1,3 +1,3 @@
 import "./style.css";
 
-console.log("Hello from main");
+console.log("Cada comensal debe pagar: ", (120 - 18) / 6, " €");
